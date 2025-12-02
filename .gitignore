@@ -3,3 +3,6 @@
 .env
 .vscode/
 .idea
+.streamlit/secrets.toml
+LAB_FILES/week10/.streamlit/secrets.toml
+.env
