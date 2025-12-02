@@ -1,9 +1,6 @@
 
 
-import streamlit as st 
-import pandas as pd
-
-st.title("2. Basic Widgets Demo")
+st.title("1. Basic Widgets Demo")
 
 st.header("Buttons & text inputs")
 name = st.text_input("what is your name?")
@@ -39,4 +36,3 @@ if agree:
 
 date= st.date_input("Pick a date")
 st.write("Chosen date:", date)
-
