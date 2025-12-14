@@ -1,0 +1,22 @@
+#secret files - specific paths 
+**/.env
+**/secrets.toml
+LAB_FILES/week10/.env 
+LAB_FILES/week10/secrets.toml
+
+#secret files - general patterns 
+.env
+__pycache__/
+*.pyc
+*.pyo
+
+#virtual environments 
+venv/
+env/
+
+#Mac 
+.DS_store
+#
+
+#Other files you dont need
+LAB_FILES/ .DS_store

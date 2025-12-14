@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directory
+venv/
+.venv/
+env/
+
+# IDE files (if using VS Code)
+.vscode/
+
+# Streamlit data
+.streamlit/
+streamlit_data/
+
+# The Database File: DO NOT COMMIT BINARY DATABASE FILES!
+database/platform.db
+
+# Operating System files
+.DS_Store

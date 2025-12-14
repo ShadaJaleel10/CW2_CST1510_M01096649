@@ -1,0 +1,22 @@
+# Multi-Domain Intelligence Platform
+
+This project is a Streamlit-based application refactored using Object-Oriented
+Programming (OOP) principles.
+
+## Project Structure
+- models/: Domain entities such as User, SecurityIncident, Dataset, ITTicket
+- services/: Service classes handling business logic and external resources
+- pages/: Streamlit UI pages for each domain
+- database/: SQLite database
+
+## Key OOP Concepts Used
+- Encapsulation using private attributes
+- Separation of concerns using service classes
+- Composition (AuthManager uses DatabaseManager)
+- Domain modeling with entity classes
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+2. Run the app:
+   streamlit run Home.py
