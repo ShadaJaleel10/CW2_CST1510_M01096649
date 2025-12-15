@@ -1,0 +1,6 @@
+date,incident_type,severity,status,description,reported_by
+2024-11-01,Malware,High,Open,System locked by ransomware,Security Team
+2024-11-02,Phishing,Medium,Closed,User reported suspicious email,IT Helpdesk
+2024-11-03,DDoS,Critical,Open,Server overload from external attack,Security Team
+2024-11-04,Data Leak,High,Closed,Customer data accessed without authorization,Audit
+2024-11-05,Insider Threat,Medium,Closed,Employee accessed restricted files,HR

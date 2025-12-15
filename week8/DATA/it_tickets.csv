@@ -1,0 +1,6 @@
+ticket_id,priority,status,category,subject,description,created_date,resolved_date,assigned_to
+ITK-00100,High,Open,Hardware,Laptop screen replacement,Screen cracked after drop,2024-11-04,,tech_a
+ITK-00101,Medium,Closed,Software,Adobe license renewal,User needs latest Photoshop,2024-11-01,2024-11-02,tech_b
+ITK-00102,Low,Closed,Network,VPN connection drop,Sporadic VPN disconnects,2024-10-28,2024-10-29,net_eng
+ITK-00103,High,Open,Email,Cannot send attachments,Error when sending large files,2024-11-05,,tech_a
+ITK-00104,Medium,Closed,Account,Password reset request,User locked out of account,2024-11-04,2024-11-04,tech_b
